@@ -1,0 +1,20 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node / Next.js
+node_modules/
+.next/
+.vercel/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Local files
+*.log
+*.sqlite3
+.DS_Store
